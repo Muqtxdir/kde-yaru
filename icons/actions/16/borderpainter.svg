@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg6"
+   sodipodi:docname="borderpainter.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="689"
+     id="namedview8"
+     showgrid="true"
+     inkscape:zoom="23.643883"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid837" />
+  </sodipodi:namedview>
+  <g
+     id="g844">
+    <g
+       transform="translate(-32,-101)"
+       id="g4"
+       style="fill:#111111;fill-opacity:1">
+      <path
+         d="m 44.238,101 -0.35351,0.35938 -8.9688,9.0957 -0.0293,0.0449 c -0.0618,0.0987 -0.27016,0.45 -0.58399,1.0879 -0.31382,0.63789 -0.70008,1.5096 -1.0117,2.4922 l -0.29102,0.91994 0.91992,-0.29102 c 0.9834,-0.31169 1.8544,-0.69795 2.4922,-1.0117 0.63783,-0.31377 0.98702,-0.52071 1.0879,-0.58399 l 0.0449,-0.0293 9.4551,-9.3223 z m -8.3477,9.8906 1.2188,1.2188 -0.17774,0.17578 c 0.007,-0.005 -0.37854,0.22717 -0.96094,0.51367 -0.2142,0.10537 -0.53547,0.22256 -0.83398,0.33789 L 34.863,112.8633 c 0.11532,-0.29849 0.23249,-0.61973 0.33789,-0.83398 0.28659,-0.58252 0.51751,-0.96589 0.51367,-0.96094 z"
+         id="path2"
+         style="fill:#111111;fill-opacity:1" />
+    </g>
+    <rect
+       style="fill:#111111;fill-opacity:1"
+       id="rect839"
+       width="16"
+       height="1"
+       x="0"
+       y="15"
+       ry="0" />
+  </g>
+</svg>

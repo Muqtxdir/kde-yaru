@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg6"
+   sodipodi:docname="document-preview-archive.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="689"
+     id="namedview8"
+     showgrid="true"
+     inkscape:zoom="11.821942"
+     inkscape:cx="15.012692"
+     inkscape:cy="11.979564"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid858" />
+  </sodipodi:namedview>
+  <g
+     id="g932">
+    <g
+       transform="translate(-372 -40)"
+       id="g4">
+      <path
+         id="path2"
+         style="fill:#111111;fill-opacity:1"
+         transform="translate(372,40)"
+         d="M 4.9902344,0 C 3.7321344,0.01507 2.8113137,-0.02842125 2.0585938,0.38671875 1.6822332,0.59427875 1.3853831,0.9442025 1.2207031,1.3828125 1.0559931,1.8214125 0.99609375,2.34239 0.99609375,3 v 10 c 0,0.65762 0.0599394,1.178514 0.22460935,1.617188 0.16466,0.43867 0.4615206,0.790386 0.8378907,0.998046 C 2.8112937,16.030564 3.7320344,15.98547 4.9902344,16 H 4.9941444 12 c 0,-0.451563 0.0246,-0.665335 0,-1 H 4.9960938 C 3.7375937,14.9853 2.9069756,14.940191 2.5410156,14.738281 2.3576056,14.637081 2.25385,14.525535 2.15625,14.265625 2.05869,14.005725 1.9960937,13.59239 1.9960938,13 V 3 C 1.9960938,2.40763 2.05865,1.994175 2.15625,1.734375 2.25379,1.474575 2.3575956,1.3628788 2.5410156,1.2617188 2.9070156,1.0598787 3.7374918,1.01523 4.9960938,1 h 0.00586 4.9941407 v 4 h 2.0000005 2 L 14,8 h 1 L 14.9961,5 V 4.25 L 10.746094,0 H 9.9960938 4.9921875 Z m 9.9707036,13.550781 c -0.0025,0.02341 -0.0034,0.0454 -0.0059,0.06836 0.002,-3.62e-4 0.004,2.84e-4 0.0059,0 0.0018,-0.02184 0.0023,-0.04617 0.0039,-0.06836 -0.0013,-1.4e-5 -0.0026,6.4e-5 -0.0039,0 z"
+         sodipodi:nodetypes="cccsscccccccccssccccccccccccccccccccc" />
+    </g>
+    <path
+       d="m 10,6 c -2.204,0 -4,1.796 -4,4 0,2.204 1.796,4 4,4 2.204,0 4,-1.796 4,-4 0,-2.204 -1.796,-4 -4,-4 z m 0,0.832 A 3.1632,3.1632 0 0 1 13.168,10 3.1632,3.1632 0 0 1 10,13.168 3.1632,3.1632 0 0 1 6.832,10 3.1632,3.1632 0 0 1 10,6.832 Z"
+       overflow="visible"
+       style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;stroke-width:0.8"
+       id="path4" />
+    <path
+       d="m 13.354,12.146 -0.708,0.708 2.5,2.5 0.708,-0.708 z"
+       fill-rule="evenodd"
+       overflow="visible"
+       style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal"
+       id="path6" />
+  </g>
+</svg>
