@@ -5,7 +5,7 @@ project('Yaru',
         default_options: ['prefix=/usr'])
 
 
-components = ['icons', 'aurorae']
+components = ['colors','icons', 'kdecoration']
 
 foreach component: components
   if not get_option(component)
