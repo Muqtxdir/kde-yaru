@@ -1,0 +1,5 @@
+option('icons', type: 'boolean', value: false, description:'build icons component')
+option('aurorae', type: 'boolean', value: true, description:'build KDE-Yaru window-decorations')
+
+option('default', type: 'boolean', value: true, description:'build KDE-Yaru default flavour')
+option('dark', type: 'boolean', value: true, description:'build KDE-Yaru dark flavour')
