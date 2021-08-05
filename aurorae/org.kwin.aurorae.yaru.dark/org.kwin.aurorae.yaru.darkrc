@@ -1,6 +1,6 @@
 [General]
-ActiveTextColor=48,54,59,255
-InactiveTextColor=147,156,165,255
+ActiveTextColor=255,255,255,255
+InactiveTextColor=189,195,209,255
 TitleAlignment=Center
 TitleVerticalAlignment=Center
 UseTextShadow=false
@@ -21,7 +21,7 @@ TitleBorderRight=2
 TitleHeight=28
 ButtonWidth=30
 ButtonHeight=30
-ButtonSpacing=0
+ButtonSpacing=15
 ButtonMarginTop=2
 ButtonSize=0
 ExplicitButtonSpacer=0
